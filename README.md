@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Stalequote 
 - 👀 I’m interested in cyber security
 - 🌱 I’m currently learning Cyber security as a profession 
-- 💞️ I’m looking to collaborate on with all security
+- 💞️ I’m looking to collaborate on with all security agencies
 - 📫 How to reach me ... stalequote@gmail.com,
 
 <!---
